@@ -1,0 +1,239 @@
+{
+  "case_count": 21,
+  "cases": [
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Street style fashion editorial",
+      "filename": "charcoal-overcoat-street-style-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Full Outfit",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/charcoal-overcoat-street-style-editorial.md",
+      "title": "Charcoal Overcoat Street Style Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Soft glam fashion editorial",
+      "filename": "chiffon-shirt-soft-glam-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/chiffon-shirt-soft-glam-fashion-editorial.md",
+      "title": "Chiffon Shirt Soft Glam Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Red-carpet fashion editorial",
+      "filename": "crystal-couture-gown-red-carpet-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Dress",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/crystal-couture-gown-red-carpet-editorial.md",
+      "title": "Crystal Couture Gown Red Carpet Editorial"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Luxury jewelry product photography",
+      "filename": "emerald-ring-studio-product-commercial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Jewelry",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/emerald-ring-studio-product-commercial.md",
+      "title": "Emerald Ring Studio Product Commercial"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Fabric tote product photography",
+      "filename": "fabric-tote-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Accessories",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/fabric-tote-product-photo.md",
+      "title": "Fabric Tote Product Photo"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Jewelry product photography",
+      "filename": "gold-curb-chain-jewelry-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Jewelry",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/gold-curb-chain-jewelry-product-photo.md",
+      "title": "Gold Curb Chain Jewelry Product Photo"
+    },
+    {
+      "content_category": "Accessories Showcase",
+      "fashion_use_case": "Jewelry editorial and lifestyle campaign photography",
+      "filename": "gold-rings-and-bracelet-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Jewelry",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/gold-rings-and-bracelet-editorial.md",
+      "title": "Gold Rings and Bracelet Editorial"
+    },
+    {
+      "content_category": "Lookbook",
+      "fashion_use_case": "Fashion lookbook editorial",
+      "filename": "ivory-linen-suit-studio-lookbook.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/ivory-linen-suit-studio-lookbook.md",
+      "title": "Ivory Linen Suit Studio Lookbook"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "lace-bra-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Lingerie",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/lace-bra-fashion-editorial.md",
+      "title": "Lace Bra Fashion Editorial"
+    },
+    {
+      "content_category": "Lookbook",
+      "fashion_use_case": "Fashion lookbook photography",
+      "filename": "minimal-tailoring-daylight-lookbook.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/minimal-tailoring-daylight-lookbook.md",
+      "title": "Minimal Tailoring Daylight Lookbook"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "olive-corduroy-suit-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Full Outfit",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/olive-corduroy-suit-fashion-editorial.md",
+      "title": "Olive Corduroy Suit Fashion Editorial"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Luxury jewelry product photography",
+      "filename": "platinum-solitaire-ring-catalogue-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Jewelry",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/platinum-solitaire-ring-catalogue-photo.md",
+      "title": "Platinum Solitaire Ring Catalogue Photo"
+    },
+    {
+      "content_category": "Product Photo",
+      "fashion_use_case": "Rain boot product photography",
+      "filename": "rain-boots-spring-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Shoes",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/rain-boots-spring-product-photo.md",
+      "title": "Rain Boots Spring Product Photo"
+    },
+    {
+      "content_category": "Flat Lay",
+      "fashion_use_case": "Luxury handbag product photography and fashion campaign still life",
+      "filename": "sage-green-handbag-citrus-flat-lay.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Handbag",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/sage-green-handbag-citrus-flat-lay.md",
+      "title": "Sage Green Handbag Citrus Flat Lay"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Surreal high-fashion editorial showcasing an iridescent sculptural gown and structured corset bodice",
+      "filename": "sculptural-gown-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Dress",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/sculptural-gown-fashion-editorial.md",
+      "title": "Sculptural Gown Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Surreal avant-garde fashion editorial",
+      "filename": "sculptural-ice-dress-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Dress",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/sculptural-ice-dress-fashion-editorial.md",
+      "title": "Sculptural Ice Dress Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "sheer-black-top-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Tops",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/sheer-black-top-fashion-editorial.md",
+      "title": "Sheer Black Top Fashion Editorial"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Desert fashion editorial with sheer layered styling and a multi-pose sequence",
+      "filename": "sheer-white-top-desert-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Tops",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/sheer-white-top-desert-fashion-editorial.md",
+      "title": "Sheer White Top Desert Fashion Editorial"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Streetwear fashion editorial poster",
+      "filename": "urban-streetwear-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Streetwear",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/urban-streetwear-campaign-poster.md",
+      "title": "Urban Streetwear Campaign Poster"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Soft glam fashion editorial",
+      "filename": "white-shirt-glam-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Tops",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/white-shirt-glam-fashion-editorial.md",
+      "title": "White Shirt Glam Fashion Editorial"
+    },
+    {
+      "content_category": "Flat Lay",
+      "fashion_use_case": "Scarf product photography",
+      "filename": "wool-scarf-flat-lay-product-photo.md",
+      "media_type": "Image",
+      "normalized_model_key": "nano-banana-pro",
+      "product_category": "Accessories",
+      "raw_model": "Nano Banana Pro",
+      "source_path": "cases/wool-scarf-flat-lay-product-photo.md",
+      "title": "Wool Scarf Flat Lay Product Photo"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "nano-banana-pro",
+  "repository": "KoozeeAI/awesome-nano-banana-pro-fashion-prompts"
+}
