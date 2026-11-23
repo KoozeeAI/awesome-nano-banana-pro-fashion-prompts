@@ -43,10 +43,6 @@ Explore prompts by their intended fashion use case.
 - [Emerald Ring Studio Product Commercial](../cases/emerald-ring-studio-product-commercial.md)
 - [Platinum Solitaire Ring Catalogue Photo](../cases/platinum-solitaire-ring-catalogue-photo.md)
 
-### Rain boot product photography (1)
-
-- [Rain Boots Spring Product Photo](../cases/rain-boots-spring-product-photo.md)
-
 ### Red-carpet fashion editorial (1)
 
 - [Crystal Couture Gown Red Carpet Editorial](../cases/crystal-couture-gown-red-carpet-editorial.md)
@@ -55,10 +51,9 @@ Explore prompts by their intended fashion use case.
 
 - [Wool Scarf Flat Lay Product Photo](../cases/wool-scarf-flat-lay-product-photo.md)
 
-### Soft glam fashion editorial (2)
+### Soft glam fashion editorial (1)
 
 - [Chiffon Shirt Soft Glam Fashion Editorial](../cases/chiffon-shirt-soft-glam-fashion-editorial.md)
-- [White Shirt Glam Fashion Editorial](../cases/white-shirt-glam-fashion-editorial.md)
 
 ### Street style fashion editorial (1)
 

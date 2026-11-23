@@ -41,10 +41,10 @@ Nano Banana Pro is an AI image generation model. In fashion workflows, it can su
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 21 |
-| Image Prompts | 21 |
-| Product Categories | 10 |
-| Fashion Use Cases | 17 |
+| Total Prompts | 19 |
+| Image Prompts | 19 |
+| Product Categories | 9 |
+| Fashion Use Cases | 16 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -437,39 +437,7 @@ Macro product photograph of a platinum solitaire ring with a brilliant-cut diamo
 
 ---
 
-### No. 13: Rain Boots Spring Product Photo
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://rendergrid.io/_site/img/f90745ee8b79a245/l6-product-prompts-29.en-1600.webp" width="460" alt="Rain Boots Spring Product Photo">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Shoes · Rain boot product photography · Image.
-
-#### 💬 Prompt Preview
-
-```
-A pair of plain rain boots stands beside a shallow puddle edged with new green shoots. Use a low viewpoint, a faint reflection in the water and soft overcast spring light. Show both boots completely, leaving room above the shafts and at the sides. No lettering, logos, people, or watermarks.
-```
-
-**[View full prompt →](./cases/rain-boots-spring-product-photo.md)**
-
-#### 🏷️ Details
-
-- **Model:** Nano Banana Pro
-- **Media Type:** Image
-- **Fashion Use Case:** Rain boot product photography
-- **Content Category:** Product Photo
-- **Product Category:** Shoes
-- **Creator:** Rendergrid editors
-- **Source:** [View original source](https://rendergrid.io/blog/product-card-prompts#ar-p-l6-product-prompts-29)
-
----
-
-### No. 14: Sage Green Handbag Citrus Flat Lay
+### No. 13: Sage Green Handbag Citrus Flat Lay
 
 #### 🖼️ Result Preview
 
@@ -501,7 +469,7 @@ Top-down flat lay of a sage green leather handbag placed inside a rustic wooden 
 
 ---
 
-### No. 15: Sculptural Gown Fashion Editorial
+### No. 14: Sculptural Gown Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -536,7 +504,7 @@ A curated AI fashion prompt for Dress · Surreal high-fashion editorial showcasi
 
 ---
 
-### No. 16: Sculptural Ice Dress Fashion Editorial
+### No. 15: Sculptural Ice Dress Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -571,7 +539,7 @@ A curated AI fashion prompt for Dress · Surreal avant-garde fashion editorial �
 
 ---
 
-### No. 17: Sheer Black Top Fashion Editorial
+### No. 16: Sheer Black Top Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -603,7 +571,7 @@ Soft glam fashion editorial. A young woman with short platinum blonde pixie and 
 
 ---
 
-### No. 18: Sheer White Top Desert Fashion Editorial
+### No. 17: Sheer White Top Desert Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -640,7 +608,7 @@ Both hands on back of neck, one hand on mouth, lean forward, squatting, hand on 
 
 ---
 
-### No. 19: Urban Streetwear Campaign Poster
+### No. 18: Urban Streetwear Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -674,39 +642,7 @@ The background is a high-contrast graphic design poster style with large vertica
 
 ---
 
-### No. 20: White Shirt Glam Fashion Editorial
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HW91L4cakAEaYoo.jpg" width="460" alt="White Shirt Glam Fashion Editorial">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Tops · Soft glam fashion editorial · Image.
-
-#### 💬 Prompt Preview
-
-```
-Soft glam fashion editorial. A woman <<<image_1>>> with messy short platinum blonde pixie and side-swept bangs in an unbuttoned extra thin white shirt, black loose untied necktie draped over the collar and silver dangle earrings against a blue backdrop. Head tilted back, slightly partly lips. Both hands tearing open the shirt from the collar to reveal her bare shoulder and black lace bra top strap, flirtatious yet cool facial look, soft gaze. Pressing her chest close at the camera. Single direct flash from camera right creating sharp shadows and strong contrast. Clean fashion style with crisp detail. Close up shot.
-```
-
-**[View full prompt →](./cases/white-shirt-glam-fashion-editorial.md)**
-
-#### 🏷️ Details
-
-- **Model:** Nano Banana Pro
-- **Media Type:** Image
-- **Fashion Use Case:** Soft glam fashion editorial
-- **Content Category:** Fashion Editorial
-- **Product Category:** Tops
-- **Creator:** Saki H. 咲希 (@SakiH_AI)
-- **Source:** [View original source](https://x.com/SakiH_AI/status/2121043133928772019)
-
----
-
-### No. 21: Wool Scarf Flat Lay Product Photo
+### No. 19: Wool Scarf Flat Lay Product Photo
 
 #### 🖼️ Result Preview
 

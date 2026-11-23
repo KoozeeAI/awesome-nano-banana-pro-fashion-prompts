@@ -1,5 +1,5 @@
 {
-  "case_count": 21,
+  "case_count": 19,
   "cases": [
     {
       "content_category": "Fashion Editorial",
@@ -134,17 +134,6 @@
       "title": "Platinum Solitaire Ring Catalogue Photo"
     },
     {
-      "content_category": "Product Photo",
-      "fashion_use_case": "Rain boot product photography",
-      "filename": "rain-boots-spring-product-photo.md",
-      "media_type": "Image",
-      "normalized_model_key": "nano-banana-pro",
-      "product_category": "Shoes",
-      "raw_model": "Nano Banana Pro",
-      "source_path": "cases/rain-boots-spring-product-photo.md",
-      "title": "Rain Boots Spring Product Photo"
-    },
-    {
       "content_category": "Flat Lay",
       "fashion_use_case": "Luxury handbag product photography and fashion campaign still life",
       "filename": "sage-green-handbag-citrus-flat-lay.md",
@@ -209,17 +198,6 @@
       "raw_model": "Nano Banana Pro",
       "source_path": "cases/urban-streetwear-campaign-poster.md",
       "title": "Urban Streetwear Campaign Poster"
-    },
-    {
-      "content_category": "Fashion Editorial",
-      "fashion_use_case": "Soft glam fashion editorial",
-      "filename": "white-shirt-glam-fashion-editorial.md",
-      "media_type": "Image",
-      "normalized_model_key": "nano-banana-pro",
-      "product_category": "Tops",
-      "raw_model": "Nano Banana Pro",
-      "source_path": "cases/white-shirt-glam-fashion-editorial.md",
-      "title": "White Shirt Glam Fashion Editorial"
     },
     {
       "content_category": "Flat Lay",

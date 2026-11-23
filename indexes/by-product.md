@@ -10,11 +10,10 @@ Explore prompts by the fashion product featured in each case.
 - [Sculptural Gown Fashion Editorial](../cases/sculptural-gown-fashion-editorial.md)
 - [Sculptural Ice Dress Fashion Editorial](../cases/sculptural-ice-dress-fashion-editorial.md)
 
-### Tops (3)
+### Tops (2)
 
 - [Sheer Black Top Fashion Editorial](../cases/sheer-black-top-fashion-editorial.md)
 - [Sheer White Top Desert Fashion Editorial](../cases/sheer-white-top-desert-fashion-editorial.md)
-- [White Shirt Glam Fashion Editorial](../cases/white-shirt-glam-fashion-editorial.md)
 
 ### Streetwear (1)
 
@@ -23,10 +22,6 @@ Explore prompts by the fashion product featured in each case.
 ### Lingerie (1)
 
 - [Lace Bra Fashion Editorial](../cases/lace-bra-fashion-editorial.md)
-
-### Shoes (1)
-
-- [Rain Boots Spring Product Photo](../cases/rain-boots-spring-product-photo.md)
 
 ### Handbag (1)
 
