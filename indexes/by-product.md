@@ -19,10 +19,6 @@ Explore prompts by the fashion product featured in each case.
 
 - [Urban Streetwear Campaign Poster](../cases/urban-streetwear-campaign-poster.md)
 
-### Lingerie (1)
-
-- [Lace Bra Fashion Editorial](../cases/lace-bra-fashion-editorial.md)
-
 ### Handbag (1)
 
 - [Sage Green Handbag Citrus Flat Lay](../cases/sage-green-handbag-citrus-flat-lay.md)
@@ -44,8 +40,7 @@ Explore prompts by the fashion product featured in each case.
 - [Charcoal Overcoat Street Style Editorial](../cases/charcoal-overcoat-street-style-editorial.md)
 - [Olive Corduroy Suit Fashion Editorial](../cases/olive-corduroy-suit-fashion-editorial.md)
 
-### Mixed Fashion (3)
+### Mixed Fashion (2)
 
-- [Chiffon Shirt Soft Glam Fashion Editorial](../cases/chiffon-shirt-soft-glam-fashion-editorial.md)
 - [Ivory Linen Suit Studio Lookbook](../cases/ivory-linen-suit-studio-lookbook.md)
 - [Minimal Tailoring Daylight Lookbook](../cases/minimal-tailoring-daylight-lookbook.md)

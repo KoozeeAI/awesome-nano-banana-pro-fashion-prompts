@@ -11,12 +11,10 @@ Explore prompts by their primary fashion output type.
 - [Gold Curb Chain Jewelry Product Photo](../cases/gold-curb-chain-jewelry-product-photo.md)
 - [Platinum Solitaire Ring Catalogue Photo](../cases/platinum-solitaire-ring-catalogue-photo.md)
 
-### Fashion Editorial (9)
+### Fashion Editorial (7)
 
 - [Charcoal Overcoat Street Style Editorial](../cases/charcoal-overcoat-street-style-editorial.md)
-- [Chiffon Shirt Soft Glam Fashion Editorial](../cases/chiffon-shirt-soft-glam-fashion-editorial.md)
 - [Crystal Couture Gown Red Carpet Editorial](../cases/crystal-couture-gown-red-carpet-editorial.md)
-- [Lace Bra Fashion Editorial](../cases/lace-bra-fashion-editorial.md)
 - [Olive Corduroy Suit Fashion Editorial](../cases/olive-corduroy-suit-fashion-editorial.md)
 - [Sculptural Gown Fashion Editorial](../cases/sculptural-gown-fashion-editorial.md)
 - [Sculptural Ice Dress Fashion Editorial](../cases/sculptural-ice-dress-fashion-editorial.md)

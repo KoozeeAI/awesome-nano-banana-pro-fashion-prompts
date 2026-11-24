@@ -41,10 +41,10 @@ Nano Banana Pro is an AI image generation model. In fashion workflows, it can su
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 19 |
-| Image Prompts | 19 |
-| Product Categories | 9 |
-| Fashion Use Cases | 16 |
+| Total Prompts | 17 |
+| Image Prompts | 17 |
+| Product Categories | 8 |
+| Fashion Use Cases | 15 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -80,39 +80,7 @@ Street style fashion photograph of a man in his late twenties walking across a w
 
 ---
 
-### No. 2: Chiffon Shirt Soft Glam Fashion Editorial
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HXoKNq3aIAEWWiM.jpg" width="460" alt="Chiffon Shirt Soft Glam Fashion Editorial">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Mixed Fashion · Soft glam fashion editorial · Image.
-
-#### 💬 Prompt Preview
-
-```
-Soft glam fashion editorial. A woman <<<image_1>>> with messy short platinum blonde pixie and side-swept bangs in a partial unbuttoned white extra thin chiffon shirt draped off both shoulders to reveal black lace bra top, black loosely tied necktie draped over the collar and silver dangle earrings against a blue backdrop. Head tilted backward and sideways. Palm on face covering her mouth, flirtatious yet cool facial look, soft gaze at the camera, hold the tip of the stem and point a red / white rose horizontally directly at the camera. Single direct flash from camera right creating sharp shadows and strong contrast. Clean fashion style with crisp detail. Close up shot. A shirt collar must be attached to a shirt.
-```
-
-**[View full prompt →](./cases/chiffon-shirt-soft-glam-fashion-editorial.md)**
-
-#### 🏷️ Details
-
-- **Model:** Nano Banana Pro
-- **Media Type:** Image
-- **Fashion Use Case:** Soft glam fashion editorial
-- **Content Category:** Fashion Editorial
-- **Product Category:** Mixed Fashion
-- **Creator:** Saki H. 咲希 (@SakiH_AI)
-- **Source:** [View original source](https://x.com/SakiH_AI/status/2124021714816561336)
-
----
-
-### No. 3: Crystal Couture Gown Red Carpet Editorial
+### No. 2: Crystal Couture Gown Red Carpet Editorial
 
 #### 🖼️ Result Preview
 
@@ -149,7 +117,7 @@ Place her standing gracefully on the grand cream-colored staircase of a prestigi
 
 ---
 
-### No. 4: Emerald Ring Studio Product Commercial
+### No. 3: Emerald Ring Studio Product Commercial
 
 #### 🖼️ Result Preview
 
@@ -181,7 +149,7 @@ Dramatic macro photograph of a gold ring set with a deep green emerald-cut stone
 
 ---
 
-### No. 5: Fabric Tote Product Photo
+### No. 4: Fabric Tote Product Photo
 
 #### 🖼️ Result Preview
 
@@ -213,7 +181,7 @@ A structured pale fabric tote stands on draped canvas with both handles upright.
 
 ---
 
-### No. 6: Gold Curb Chain Jewelry Product Photo
+### No. 5: Gold Curb Chain Jewelry Product Photo
 
 #### 🖼️ Result Preview
 
@@ -245,7 +213,7 @@ Macro photograph of a heavy 18k yellow gold curb chain coiled loosely on a slab 
 
 ---
 
-### No. 7: Gold Rings and Bracelet Editorial
+### No. 6: Gold Rings and Bracelet Editorial
 
 #### 🖼️ Result Preview
 
@@ -277,7 +245,7 @@ Editorial jewellery photograph of a hand at rest against a warm terracotta plast
 
 ---
 
-### No. 8: Ivory Linen Suit Studio Lookbook
+### No. 7: Ivory Linen Suit Studio Lookbook
 
 #### 🖼️ Result Preview
 
@@ -309,39 +277,7 @@ Editorial fashion lookbook photograph, full length, of a woman with dark curly h
 
 ---
 
-### No. 9: Lace Bra Fashion Editorial
-
-#### 🖼️ Result Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/media/HXMLgcSbUAAVVkL.jpg" width="460" alt="Lace Bra Fashion Editorial">
-</div>
-
-#### 📝 About This Case
-
-A curated AI fashion prompt for Lingerie · Fashion Editorial · Image.
-
-#### 💬 Prompt Preview
-
-```
-Soft glam fashion editorial. A woman <<<image_1>>> with messy short platinum blonde pixie and side-swept bangs in an unbuttoned extra thin linen white shirt, black loose untied necktie draped over the collar and silver dangle earrings against a blue backdrop. Head tilted backward and sideways, softly biting her lips, softly parts lips. Both hands opening the shirt from the chest to reveal her black lace bra top, flirtatious yet cool facial look, soft gaze, dropping the shirt below one shoulder to reveal her black lace bra top strap. Single direct flash from camera right creating sharp shadows and strong contrast. Clean fashion style with crisp detail. Close up shot. 1x3 sequence shots.
-```
-
-**[View full prompt →](./cases/lace-bra-fashion-editorial.md)**
-
-#### 🏷️ Details
-
-- **Model:** Nano Banana Pro
-- **Media Type:** Image
-- **Fashion Use Case:** Fashion Editorial
-- **Content Category:** Fashion Editorial
-- **Product Category:** Lingerie
-- **Creator:** Saki H. 咲希 (@SakiH_AI)
-- **Source:** [View original source](https://x.com/SakiH_AI/status/2122053653024702775)
-
----
-
-### No. 10: Minimal Tailoring Daylight Lookbook
+### No. 8: Minimal Tailoring Daylight Lookbook
 
 #### 🖼️ Result Preview
 
@@ -373,7 +309,7 @@ Minimalist fashion lookbook photograph of a woman with short black hair seated s
 
 ---
 
-### No. 11: Olive Corduroy Suit Fashion Editorial
+### No. 9: Olive Corduroy Suit Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -405,7 +341,7 @@ A young man with slightly longer dark hair and green eyes; full body, looking in
 
 ---
 
-### No. 12: Platinum Solitaire Ring Catalogue Photo
+### No. 10: Platinum Solitaire Ring Catalogue Photo
 
 #### 🖼️ Result Preview
 
@@ -437,7 +373,7 @@ Macro product photograph of a platinum solitaire ring with a brilliant-cut diamo
 
 ---
 
-### No. 13: Sage Green Handbag Citrus Flat Lay
+### No. 11: Sage Green Handbag Citrus Flat Lay
 
 #### 🖼️ Result Preview
 
@@ -469,7 +405,7 @@ Top-down flat lay of a sage green leather handbag placed inside a rustic wooden 
 
 ---
 
-### No. 14: Sculptural Gown Fashion Editorial
+### No. 12: Sculptural Gown Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -504,7 +440,7 @@ A curated AI fashion prompt for Dress · Surreal high-fashion editorial showcasi
 
 ---
 
-### No. 15: Sculptural Ice Dress Fashion Editorial
+### No. 13: Sculptural Ice Dress Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -539,7 +475,7 @@ A curated AI fashion prompt for Dress · Surreal avant-garde fashion editorial �
 
 ---
 
-### No. 16: Sheer Black Top Fashion Editorial
+### No. 14: Sheer Black Top Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -571,7 +507,7 @@ Soft glam fashion editorial. A young woman with short platinum blonde pixie and 
 
 ---
 
-### No. 17: Sheer White Top Desert Fashion Editorial
+### No. 15: Sheer White Top Desert Fashion Editorial
 
 #### 🖼️ Result Preview
 
@@ -608,7 +544,7 @@ Both hands on back of neck, one hand on mouth, lean forward, squatting, hand on 
 
 ---
 
-### No. 18: Urban Streetwear Campaign Poster
+### No. 16: Urban Streetwear Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -642,7 +578,7 @@ The background is a high-contrast graphic design poster style with large vertica
 
 ---
 
-### No. 19: Wool Scarf Flat Lay Product Photo
+### No. 17: Wool Scarf Flat Lay Product Photo
 
 #### 🖼️ Result Preview
 

@@ -12,9 +12,8 @@ Explore prompts by their intended fashion use case.
 
 - [Fabric Tote Product Photo](../cases/fabric-tote-product-photo.md)
 
-### Fashion Editorial (3)
+### Fashion Editorial (2)
 
-- [Lace Bra Fashion Editorial](../cases/lace-bra-fashion-editorial.md)
 - [Olive Corduroy Suit Fashion Editorial](../cases/olive-corduroy-suit-fashion-editorial.md)
 - [Sheer Black Top Fashion Editorial](../cases/sheer-black-top-fashion-editorial.md)
 
@@ -50,10 +49,6 @@ Explore prompts by their intended fashion use case.
 ### Scarf product photography (1)
 
 - [Wool Scarf Flat Lay Product Photo](../cases/wool-scarf-flat-lay-product-photo.md)
-
-### Soft glam fashion editorial (1)
-
-- [Chiffon Shirt Soft Glam Fashion Editorial](../cases/chiffon-shirt-soft-glam-fashion-editorial.md)
 
 ### Street style fashion editorial (1)
 
